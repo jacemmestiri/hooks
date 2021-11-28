@@ -1,0 +1,44 @@
+.movielist{
+  display: flex;
+  color: whitesmoke;
+}
+:root{
+  background-color:black;
+}
+.movie{
+  color: black;
+  font-size:18px;
+  margin: 0 10px;
+}
+.App-header{
+  background-color: gray;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column-reverse;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px);
+  color:white;
+}
+.input{
+  min-width:80px
+}
+image{
+  width: 50%;
+  height:50%;
+}
+.card-img-top{
+  width :290px;
+  height: 290px;
+}
+.head{text-align: center;
+color: whitesmoke;}
+.card-text{
+  color: whitesmoke;
+}
+.card-title h5 { 
+  color: whitesmoke;
+}
+.card-body{
+  color: whitesmoke;
+}
